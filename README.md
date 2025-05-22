@@ -119,10 +119,6 @@ Developed by Narva Siddhartha
 - Email: narvasiddhartha@gmail.com
 - LinkedIn: [Narva Siddhartha](https://www.linkedin.com/in/narva-siddhartha-4b04bb211/)
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - React.js community
